@@ -5,6 +5,6 @@ package Kotlin_practice.Kotlin_basic
      var a =  34
      var b = 45
 
-     println(a + b)
+     println("The sum is ${a+b}")
 
  }
